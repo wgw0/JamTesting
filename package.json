@@ -1,0 +1,22 @@
+{
+  "name": "jamtesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgw0/JamTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wgw0/JamTesting/issues"
+  },
+  "homepage": "https://github.com/wgw0/JamTesting#readme",
+  "dependencies": {
+    "phaser": "^3.80.1"
+  }
+}
